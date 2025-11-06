@@ -1,0 +1,25 @@
+{
+  "name": "Curtain - Closed ",
+  "size": {
+    "width": 9,
+    "height": 3,
+  },
+  "properties": [
+    "stylable",
+    "collideable",
+    "stackable",
+    "conditionally_visible"
+  ],
+  "property_values": {
+    "stylable": {
+      "available": [
+        {
+          "name": "Fire"
+          "texture": "fire_curtain_closed.png"
+        },
+      ],
+    }
+  },
+  "texture": "fire_curtain_closed.png",
+  "render_priority": 6,
+}

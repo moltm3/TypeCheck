@@ -1,0 +1,15 @@
+{
+  "name": "Barrierx10",
+  "size": {
+    "width": 10,
+    "height": 1,
+  },
+  "properties": [
+    "barrier",
+    "stackable",
+    "conditionally_visible"
+  ],
+  "property_values": {},
+  "texture": "blank.png",
+  "render_priority": 4,
+}

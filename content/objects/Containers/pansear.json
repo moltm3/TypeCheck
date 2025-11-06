@@ -1,0 +1,16 @@
+{
+  "name": "Pansear",
+  "size": {
+    "width": 1,
+    "height": 1,
+  },
+  "properties": [
+    "interactable",
+    "containsitems",
+    "collideable",
+    "readable",
+  ],
+  "property_values": {},
+  "texture": "pansear.png",
+  "render_priority": 3,
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Wall",
+  "size": {
+    "width": 1,
+    "height": 1,
+  },
+  "properties": [
+    "stylable",
+    "brush",
+    "collideable",
+    "stackable",
+    "barrier"
+  ],
+  "property_values": {
+    "stylable": {
+      "available": [
+        {
+          "name": "Void"
+          "texture": "void.png"
+        }
+      ]
+    }
+  },
+  "texture": "void.png",
+  "render_priority": 4,
+}

@@ -1,0 +1,35 @@
+{
+  "name": "",
+  "size": {
+    "width": 1,
+    "height": 1,
+  },
+  "properties": [
+    "containable",
+    "readable",
+    "interactable",
+    "obtainable",
+    "stylable"
+  ],
+  "property_values": {
+    "stylable": {
+      "available": [
+        {
+          "name": "Water Bottle"
+          "texture": "water_bottle.png"
+        }, {
+          "name": "Great Ball"
+          "texture": "great_ball.png"
+        }, {
+          "name": "Chesto Berry"
+          "texture": "chesto_berry.png"
+        }, {
+          "name": "Fire Stone"
+          "texture": "fire_stone.png"
+        }
+      ]
+    }
+  },
+  "texture": "water_bottle.png",
+  "render_priority": 5,
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Floor",
+  "size": {
+    "width": 1,
+    "height": 1
+  },
+  "properties": [
+    "stylable",
+    "flooring",
+    "brush"
+  ],
+  "property_values": {
+    "stylable": {
+      "available": [
+        {
+          "name": "Angled"
+          "texture": "angled_tile.png"
+        }, {
+          "name": "S"
+          "texture": "wood_floor_z.png"
+        }, {
+          "name": "S Capped"
+          "texture": "wood_floor_z_cap.png"
+        }
+      ]
+    }
+  },
+  "texture": "angled_tile.png",
+  "render_priority": 0,
+}

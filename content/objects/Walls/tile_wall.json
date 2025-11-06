@@ -1,0 +1,25 @@
+{
+  "name": "Tile Wall",
+  "size": {
+    "width": 1,
+    "height": 1,
+  },
+  "properties": [
+    "stylable",
+    "tiled_brushable",
+    "collideable",
+    "stackable"
+  ],
+  "property_values": {
+    "stylable": {
+      "available": [
+        {
+          "name": "Blue Striped"
+          "texture": "blue_tile_wall.png"
+        }
+      ],
+    }
+  },
+  "texture": "blue_tile_wall.png",
+  "render_priority": 4,
+}

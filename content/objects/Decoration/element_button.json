@@ -1,0 +1,30 @@
+{
+  "name": "Element Button",
+  "size": {
+    "width": 3,
+    "height": 3
+  },
+  "properties": [
+    "conditionally_active",
+    "stylable"
+  ],
+  "property_values": {
+    "stylable": {
+      "available": [
+        {
+          "name": "Fire",
+          "texture": "fire_button.png"
+        },
+        {
+          "name": "Grass",
+          "texture": "grass_button.png"
+        },
+        {
+          "name": "Water",
+          "texture": "water_button.png"
+        }
+      ]
+    }
+  },
+  "texture": "fire_button.png"
+}

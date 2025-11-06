@@ -1,0 +1,22 @@
+{
+  "name": "Gym Guide",
+  "size": {
+    "width": 1,
+    "height": 2,
+  },
+  "properties": [
+    "interactable",
+    "collideable",
+    "readable"
+  ],
+  "property_values": {
+    "collideable": {
+      "xoffset": 0,
+      "yoffset": 0,
+      "width": 1,
+      "height": 1,
+    },
+  }
+  "texture": "gym_guy.png",
+  "render_priority": 3,
+}

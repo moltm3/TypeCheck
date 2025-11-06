@@ -1,0 +1,28 @@
+{
+  "name": "Curtain Side",
+  "size": {
+    "width": 1,
+    "height": 3,
+  },
+  "properties": [
+    "stylable",
+    "collideable",
+    "stackable",
+  ],
+  "property_values": {
+    "stylable": {
+      "available": [
+        {
+          "name": "Fire Open Left"
+          "texture": "fire_curtain_open_left.png"
+        },
+        {
+          "name": "Fire Open Right"
+          "texture": "fire_curtain_open_right.png"
+        }
+      ],
+    }
+  },
+  "texture": "fire_curtain_open_left.png",
+  "render_priority": 5,
+}

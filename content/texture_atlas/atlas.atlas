@@ -1,0 +1,146 @@
+
+atlas.png
+size: 1024, 128
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+angled_tile
+  rotate: false
+  xy: 384, 0
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+blank
+  rotate: false
+  xy: 400, 0
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+blue_tile_wall
+  rotate: false
+  xy: 0, 0
+  size: 384, 128
+  orig: 384, 128
+  offset: 0, 0
+  index: -1
+chesto_berry
+  rotate: false
+  xy: 416, 0
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fire_button
+  rotate: false
+  xy: 528, 80
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+fire_curtain_closed
+  rotate: false
+  xy: 384, 80
+  size: 144, 48
+  orig: 144, 48
+  offset: 0, 0
+  index: -1
+fire_curtain_open_left
+  rotate: false
+  xy: 432, 16
+  size: 16, 48
+  orig: 16, 48
+  offset: 0, 0
+  index: -1
+fire_curtain_open_middle
+  rotate: false
+  xy: 384, 64
+  size: 112, 16
+  orig: 112, 16
+  offset: 0, 0
+  index: -1
+fire_curtain_open_right
+  rotate: false
+  xy: 624, 80
+  size: 16, 48
+  orig: 16, 48
+  offset: 0, 0
+  index: -1
+fire_stone
+  rotate: false
+  xy: 432, 0
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+grass_button
+  rotate: false
+  xy: 384, 16
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+great_ball
+  rotate: false
+  xy: 496, 64
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+gym_guy
+  rotate: false
+  xy: 448, 32
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+pansear
+  rotate: false
+  xy: 640, 112
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+trash
+  rotate: false
+  xy: 448, 16
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+void
+  rotate: false
+  xy: 448, 0
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+water_bottle
+  rotate: false
+  xy: 464, 48
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+water_button
+  rotate: false
+  xy: 576, 80
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+wood_floor_z
+  rotate: false
+  xy: 512, 64
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+wood_floor_z_cap
+  rotate: false
+  xy: 640, 96
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1

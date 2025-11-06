@@ -1,0 +1,24 @@
+{
+  "name": "Curtain Middle",
+  "size": {
+    "width": 7,
+    "height": 1,
+  },
+  "properties": [
+    "conditionally_visible",
+    "stylable",
+    "stackable"
+  ],
+  "property_values": {
+    "stylable": {
+      "available": [
+        {
+          "name": "Fire Open"
+          "texture": "fire_curtain_open_middle.png"
+        }
+      ],
+    }
+  },
+  "texture": "fire_curtain_open_middle.png",
+  "render_priority": 20,
+}
