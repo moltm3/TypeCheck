@@ -6,9 +6,9 @@
   },
   "properties": [
     "containable",
-    "readable",
     "interactable",
     "obtainable",
+    "stackable",
     "stylable"
   ],
   "property_values": {
