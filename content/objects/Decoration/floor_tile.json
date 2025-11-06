@@ -21,6 +21,12 @@
         }, {
           "name": "S Capped"
           "texture": "wood_floor_z_cap.png"
+        }, {
+          "name": "Light Plank"
+          "texture": "plank_floor_light.png"
+        }, {
+          "name": "Dark Plank"
+          "texture": "plank_floor_dark.png"
         }
       ]
     }

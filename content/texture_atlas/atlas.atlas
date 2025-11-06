@@ -1,6 +1,6 @@
 
 atlas.png
-size: 1024, 128
+size: 1024, 256
 format: RGBA8888
 filter: Nearest, Nearest
 repeat: none
@@ -20,7 +20,7 @@ blank
   index: -1
 blue_tile_wall
   rotate: false
-  xy: 0, 0
+  xy: 0, 128
   size: 384, 128
   orig: 384, 128
   offset: 0, 0
@@ -30,6 +30,13 @@ chesto_berry
   xy: 416, 0
   size: 16, 16
   orig: 16, 16
+  offset: 0, 0
+  index: -1
+curtain_log
+  rotate: false
+  xy: 384, 64
+  size: 144, 16
+  orig: 144, 16
   offset: 0, 0
   index: -1
 fire_button
@@ -48,98 +55,147 @@ fire_curtain_closed
   index: -1
 fire_curtain_open_left
   rotate: false
-  xy: 432, 16
+  xy: 576, 80
   size: 16, 48
   orig: 16, 48
   offset: 0, 0
   index: -1
 fire_curtain_open_middle
   rotate: false
-  xy: 384, 64
+  xy: 912, 240
   size: 112, 16
   orig: 112, 16
   offset: 0, 0
   index: -1
 fire_curtain_open_right
   rotate: false
-  xy: 624, 80
+  xy: 816, 160
   size: 16, 48
   orig: 16, 48
   offset: 0, 0
   index: -1
 fire_stone
   rotate: false
-  xy: 432, 0
+  xy: 528, 64
   size: 16, 16
   orig: 16, 16
   offset: 0, 0
   index: -1
 grass_button
   rotate: false
-  xy: 384, 16
+  xy: 768, 160
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 great_ball
   rotate: false
-  xy: 496, 64
+  xy: 592, 112
   size: 16, 16
   orig: 16, 16
   offset: 0, 0
   index: -1
 gym_guy
   rotate: false
-  xy: 448, 32
+  xy: 912, 208
   size: 16, 32
   orig: 16, 32
   offset: 0, 0
   index: -1
 pansear
   rotate: false
-  xy: 640, 112
+  xy: 832, 192
   size: 16, 16
   orig: 16, 16
+  offset: 0, 0
+  index: -1
+plank_floor_dark
+  rotate: false
+  xy: 928, 224
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+plank_floor_light
+  rotate: false
+  xy: 784, 144
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+red_tile_wall
+  rotate: false
+  xy: 0, 0
+  size: 384, 128
+  orig: 384, 128
+  offset: 0, 0
+  index: -1
+suit_guy
+  rotate: false
+  xy: 768, 128
+  size: 16, 32
+  orig: 16, 32
   offset: 0, 0
   index: -1
 trash
   rotate: false
-  xy: 448, 16
+  xy: 432, 16
   size: 16, 16
   orig: 16, 16
+  offset: 0, 0
+  index: -1
+tree
+  rotate: false
+  xy: 432, 32
+  size: 16, 32
+  orig: 16, 32
   offset: 0, 0
   index: -1
 void
   rotate: false
-  xy: 448, 0
+  xy: 432, 0
   size: 16, 16
   orig: 16, 16
   offset: 0, 0
   index: -1
+void_trim
+  rotate: false
+  xy: 384, 128
+  size: 384, 128
+  orig: 384, 128
+  offset: 0, 0
+  index: -1
 water_bottle
   rotate: false
-  xy: 464, 48
+  xy: 448, 48
   size: 16, 16
   orig: 16, 16
   offset: 0, 0
   index: -1
 water_button
   rotate: false
-  xy: 576, 80
+  xy: 384, 16
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
+water_curtain_closed
+  rotate: false
+  xy: 768, 208
+  size: 144, 48
+  orig: 144, 48
+  offset: 0, 0
+  index: -1
 wood_floor_z
   rotate: false
-  xy: 512, 64
+  xy: 544, 64
   size: 16, 16
   orig: 16, 16
   offset: 0, 0
   index: -1
 wood_floor_z_cap
   rotate: false
-  xy: 640, 96
+  xy: 592, 96
   size: 16, 16
   orig: 16, 16
   offset: 0, 0

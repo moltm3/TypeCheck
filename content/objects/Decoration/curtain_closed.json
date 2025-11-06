@@ -16,7 +16,10 @@
         {
           "name": "Fire"
           "texture": "fire_curtain_closed.png"
-        },
+        }, {
+          "name": "Water"
+          "texture": "water_curtain_closed.png"
+        }
       ],
     }
   },

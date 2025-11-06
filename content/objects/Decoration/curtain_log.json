@@ -1,0 +1,13 @@
+{
+  "name": "Curtain Log",
+  "size": {
+    "width": 9,
+    "height": 1,
+  },
+  "properties": [
+    "stackable",
+  ],
+  "property_values": {},
+  "texture": "curtain_log.png",
+  "render_priority": 20,
+}
