@@ -19,6 +19,9 @@
         }, {
           "name": "Water"
           "texture": "water_curtain_closed.png"
+        }, {
+          "name": "Grass"
+          "texture": "grass_curtain_closed.png"
         }
       ],
     }

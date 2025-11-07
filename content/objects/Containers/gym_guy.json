@@ -9,7 +9,7 @@
     "collideable",
     "conditionally_visible",
     "stackable",
-    "readable"
+    "containsitems"
   ],
   "property_values": {
     "collideable": {

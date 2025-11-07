@@ -1,5 +1,5 @@
 {
-  "name": "Gym Guide",
+  "name": "Maid",
   "size": {
     "width": 1,
     "height": 2,
@@ -7,8 +7,6 @@
   "properties": [
     "interactable",
     "collideable",
-    "conditionally_visible",
-    "stackable",
     "readable"
   ],
   "property_values": {
@@ -19,6 +17,6 @@
       "height": 1,
     },
   }
-  "texture": "gym_guy.png",
+  "texture": "maid.png",
   "render_priority": 5,
 }

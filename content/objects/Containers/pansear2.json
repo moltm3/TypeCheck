@@ -10,8 +10,7 @@
     "readable",
     "containsitems",
     "stackable",
-    "conditionally_visible",
-    "obtainable"
+    "conditionally_visible"
   ],
   "property_values": {},
   "texture": "pansear.png",

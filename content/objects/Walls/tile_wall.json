@@ -20,6 +20,9 @@
           "name": "Red Flat"
           "texture": "red_tile_wall.png"
         }, {
+          "name": "Plain"
+          "texture": "plain_tile_wall.png"
+        }, {
           "name": "Void Trim"
           "texture": "void_trim.png"
         }

@@ -24,6 +24,12 @@
         }, {
           "name": "Water Open Right"
           "texture": "water_curtain_open_right.png"
+        },{
+          "name": "Grass Open Left"
+          "texture": "grass_curtain_open_left.png"
+        }, {
+          "name": "Grass Open Right"
+          "texture": "grass_curtain_open_right.png"
         }
       ],
     }
