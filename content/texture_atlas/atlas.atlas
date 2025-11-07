@@ -13,7 +13,7 @@ angled_tile
   index: -1
 blank
   rotate: false
-  xy: 928, 112
+  xy: 992, 192
   size: 16, 16
   orig: 16, 16
   offset: 0, 0
@@ -27,7 +27,7 @@ blue_tile_wall
   index: -1
 chesto_berry
   rotate: false
-  xy: 976, 160
+  xy: 1008, 192
   size: 16, 16
   orig: 16, 16
   offset: 0, 0
@@ -76,7 +76,7 @@ fire_curtain_open_right
   index: -1
 fire_stone
   rotate: false
-  xy: 992, 192
+  xy: 848, 48
   size: 16, 16
   orig: 16, 16
   offset: 0, 0
@@ -118,28 +118,28 @@ grass_curtain_open_right
   index: -1
 great_ball
   rotate: false
-  xy: 1008, 192
+  xy: 880, 80
   size: 16, 16
   orig: 16, 16
   offset: 0, 0
   index: -1
 gym_guy
   rotate: false
-  xy: 928, 128
+  xy: 832, 32
   size: 16, 32
   orig: 16, 32
   offset: 0, 0
   index: -1
 maid
   rotate: false
-  xy: 976, 176
+  xy: 832, 0
   size: 16, 32
   orig: 16, 32
   offset: 0, 0
   index: -1
 pansear
   rotate: false
-  xy: 848, 48
+  xy: 944, 112
   size: 16, 16
   orig: 16, 16
   offset: 0, 0
@@ -153,14 +153,14 @@ plain_tile_wall
   index: -1
 plank_floor_dark
   rotate: false
-  xy: 864, 80
+  xy: 960, 144
   size: 16, 16
   orig: 16, 16
   offset: 0, 0
   index: -1
 plank_floor_light
   rotate: false
-  xy: 960, 144
+  xy: 928, 96
   size: 16, 16
   orig: 16, 16
   offset: 0, 0
@@ -172,16 +172,23 @@ red_tile_wall
   orig: 384, 128
   offset: 0, 0
   index: -1
+simisear
+  rotate: false
+  xy: 832, 64
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
 suit_guy
   rotate: false
-  xy: 848, 64
+  xy: 864, 64
   size: 16, 32
   orig: 16, 32
   offset: 0, 0
   index: -1
 trash
   rotate: false
-  xy: 928, 96
+  xy: 992, 176
   size: 16, 16
   orig: 16, 16
   offset: 0, 0
@@ -195,7 +202,7 @@ tree
   index: -1
 void
   rotate: false
-  xy: 944, 112
+  xy: 1008, 176
   size: 16, 16
   orig: 16, 16
   offset: 0, 0
@@ -209,7 +216,7 @@ void_trim
   index: -1
 water_bottle
   rotate: false
-  xy: 992, 176
+  xy: 848, 32
   size: 16, 16
   orig: 16, 16
   offset: 0, 0
@@ -230,7 +237,7 @@ water_curtain_closed
   index: -1
 water_curtain_open_left
   rotate: false
-  xy: 832, 48
+  xy: 928, 112
   size: 16, 48
   orig: 16, 48
   offset: 0, 0
@@ -244,21 +251,21 @@ water_curtain_open_middle
   index: -1
 water_curtain_open_right
   rotate: false
-  xy: 832, 0
+  xy: 976, 160
   size: 16, 48
   orig: 16, 48
   offset: 0, 0
   index: -1
 wood_floor_z
   rotate: false
-  xy: 1008, 176
+  xy: 864, 48
   size: 16, 16
   orig: 16, 16
   offset: 0, 0
   index: -1
 wood_floor_z_cap
   rotate: false
-  xy: 848, 32
+  xy: 880, 64
   size: 16, 16
   orig: 16, 16
   offset: 0, 0

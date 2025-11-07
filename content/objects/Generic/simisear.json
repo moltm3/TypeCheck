@@ -1,0 +1,15 @@
+{
+  "name": "Simisear",
+  "size": {
+    "width": 2,
+    "height": 2,
+  },
+  "properties": [
+    "interactable",
+    "obtainable",
+    "stackable"
+  ],
+  "property_values": { },
+  "texture": "simisear.png",
+  "render_priority": 5,
+}
