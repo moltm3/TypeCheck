@@ -15,6 +15,9 @@
         {
           "name": "Fire Open"
           "texture": "fire_curtain_open_middle.png"
+        },{
+          "name": "Water Open"
+          "texture": "water_curtain_open_middle.png"
         }
       ],
     }

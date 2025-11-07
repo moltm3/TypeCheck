@@ -15,10 +15,15 @@
         {
           "name": "Fire Open Left"
           "texture": "fire_curtain_open_left.png"
-        },
-        {
+        },{
           "name": "Fire Open Right"
           "texture": "fire_curtain_open_right.png"
+        },{
+          "name": "Water Open Left"
+          "texture": "water_curtain_open_left.png"
+        }, {
+          "name": "Water Open Right"
+          "texture": "water_curtain_open_right.png"
         }
       ],
     }
