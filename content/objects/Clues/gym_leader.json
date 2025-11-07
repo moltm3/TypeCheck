@@ -1,0 +1,38 @@
+{
+  "name": " - Gym Leader",
+  "size": {
+    "width": 1,
+    "height": 2,
+  },
+  "properties": [
+    "interactable",
+    "collideable",
+    "stackable",
+    "stylable",
+    "readable"
+  ],
+  "property_values": {
+    "collideable": {
+      "xoffset": 0,
+      "yoffset": 0,
+      "width": 1,
+      "height": 1,
+    },
+    "stylable": {
+      "available": [
+        {
+          "name": "Cilan"
+          "texture": "cilan.png"
+        }, {
+          "name": "Chili"
+          "texture": "chili.png"
+        }, {
+          "name": "Cress"
+          "texture": "cress.png"
+        }
+      ],
+    }
+  },
+  "texture": "maid.png",
+  "render_priority": 5,
+}

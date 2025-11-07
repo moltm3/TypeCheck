@@ -1,0 +1,13 @@
+{
+  "name": "Stage",
+  "size": {
+    "width": 7,
+    "height": 5,
+  },
+  "properties": [
+    "stackable"
+  ],
+  "property_values": {},
+  "texture": "stage.png",
+  "render_priority": 0,
+}

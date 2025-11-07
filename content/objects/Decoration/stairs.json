@@ -1,0 +1,13 @@
+{
+  "name": "Stairs",
+  "size": {
+    "width": 3,
+    "height": 2,
+  },
+  "properties": [
+    "stackable"
+  ],
+  "property_values": {},
+  "texture": "stairs.png",
+  "render_priority": 1,
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Back Panel 2",
+  "size": {
+    "width": 2,
+    "height": 4,
+  },
+  "properties": [
+    "stackable",
+    "collideable"
+  ],
+  "property_values": {},
+  "texture": "back_panel2.png",
+  "render_priority": 3,
+}

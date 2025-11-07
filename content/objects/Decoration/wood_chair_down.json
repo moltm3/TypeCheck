@@ -1,0 +1,14 @@
+{
+  "name": "Wood Chair Down",
+  "size": {
+    "width": 1,
+    "height": 2,
+  },
+  "properties": [
+    "stackable",
+    "collideable"
+  ],
+  "property_values": {},
+  "texture": "wood_chair_down.png",
+  "render_priority": 2,
+}

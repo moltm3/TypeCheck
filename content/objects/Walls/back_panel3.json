@@ -1,0 +1,14 @@
+{
+  "name": "Back Panel 3",
+  "size": {
+    "width": 3,
+    "height": 4,
+  },
+  "properties": [
+    "stackable",
+    "collideable"
+  ],
+  "property_values": {},
+  "texture": "back_panel3.png",
+  "render_priority": 3,
+}

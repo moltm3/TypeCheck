@@ -1,0 +1,26 @@
+{
+  "name": "Field",
+  "size": {
+    "width": 10,
+    "height": 10,
+  },
+  "properties": [
+    "stylable",
+    "flooring"
+  ],
+  "property_values": {
+    "stylable": {
+      "available": [
+        {
+          "name": "Left"
+          "texture": "field_left.png"
+        }, {
+          "name": "Right"
+          "texture": "field_right.png"
+        }
+      ],
+    }
+  },
+  "texture": "field_left.png",
+  "render_priority": 1,
+}
