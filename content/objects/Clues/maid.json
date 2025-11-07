@@ -7,6 +7,8 @@
   "properties": [
     "interactable",
     "collideable",
+    "conditionally_visible",
+    "stackable",
     "readable"
   ],
   "property_values": {
