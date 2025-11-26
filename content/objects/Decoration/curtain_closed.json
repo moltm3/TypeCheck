@@ -7,7 +7,6 @@
   "properties": [
     "stylable",
     "collideable",
-    "stackable",
     "conditionally_visible"
   ],
   "property_values": {

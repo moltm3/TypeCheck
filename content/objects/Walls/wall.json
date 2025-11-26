@@ -8,7 +8,6 @@
     "stylable",
     "brush",
     "collideable",
-    "stackable",
     "barrier"
   ],
   "property_values": {

@@ -4,9 +4,7 @@
     "width": 5,
     "height": 4,
   },
-  "properties": [
-    "flooring"
-  ],
+  "properties": [ ],
   "property_values": {},
   "texture": "walkup.png",
   "render_priority": 0,

@@ -4,9 +4,7 @@
     "width": 3,
     "height": 2,
   },
-  "properties": [
-    "stackable"
-  ],
+  "properties": [ ],
   "property_values": {},
   "texture": "stairs.png",
   "render_priority": 1,

@@ -5,8 +5,7 @@
     "height": 10,
   },
   "properties": [
-    "stylable",
-    "flooring"
+    "stylable"
   ],
   "property_values": {
     "stylable": {

@@ -6,7 +6,6 @@
   },
   "properties": [
     "conditionally_active",
-    "stackable",
     "stylable"
   ],
   "property_values": {

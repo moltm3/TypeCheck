@@ -7,8 +7,7 @@
   "properties": [
     "interactable",
     "containsitems",
-    "collideable",
-    "stackable"
+    "collideable"
   ],
   "property_values": {},
   "texture": "tree.png",

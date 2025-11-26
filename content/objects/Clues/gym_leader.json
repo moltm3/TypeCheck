@@ -7,7 +7,6 @@
   "properties": [
     "interactable",
     "collideable",
-    "stackable",
     "stylable",
     "readable"
   ],

@@ -4,9 +4,7 @@
     "width": 7,
     "height": 5,
   },
-  "properties": [
-    "stackable"
-  ],
+  "properties": [ ],
   "property_values": {},
   "texture": "stage.png",
   "render_priority": 0,
