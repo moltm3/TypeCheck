@@ -8,7 +8,7 @@
     "interactable",
     "collideable",
     "readable",
-    "conditionally_visible",
+    "conditionally_visible"
   ],
   "property_values": {},
   "texture": "pansear.png",
