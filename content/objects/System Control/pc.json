@@ -1,0 +1,31 @@
+{
+  "name": "Player",
+  "size": {
+    "width": 1,
+    "height": 2,
+  },
+  "properties": [
+    "player"
+  ],
+  "property_values": {
+    "player": {
+      "hitbox": {
+        "x_offset": 0,
+        "y_offset": 0,
+        "width": 1,
+        "height": 0.75,
+      },
+      "speed": 5,
+      "texture": {
+        "idle_frames": 1,
+        "idle_frame_delay_ms": 1000,
+        "move_frames": 4,
+        "move_frame_delay_ms": 150,
+        "frame_width": 16,
+        "frame_height": 32,
+      }
+    }
+  },
+  "texture": "pc.png",
+  "render_priority": 10,
+}

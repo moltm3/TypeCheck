@@ -1,7 +1,7 @@
 {
-  "name": "Barrierx10",
+  "name": "Barrierx23",
   "size": {
-    "width": 10,
+    "width": 23,
     "height": 1,
   },
   "properties": [
@@ -10,5 +10,5 @@
   ],
   "property_values": {},
   "texture": "blank.png",
-  "render_priority": 4,
+  "render_priority": 10,
 }

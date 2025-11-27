@@ -1,0 +1,11 @@
+{
+  "name": "Light",
+  "size": {
+    "width": 1,
+    "height": 1
+  },
+  "properties": [ ],
+  "property_values": { },
+  "render_priority": 5,
+  "texture": "spotlight.png"
+}

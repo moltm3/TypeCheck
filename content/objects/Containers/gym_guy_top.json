@@ -1,0 +1,11 @@
+{
+  "name": "Gym Guide Top",
+  "size": {
+    "width": 1,
+    "height": 1,
+  },
+  "properties": [ ],
+  "property_values": { },
+  "texture": "gym_guy_top.png",
+  "render_priority": 11
+}

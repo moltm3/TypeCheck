@@ -1,0 +1,11 @@
+{
+  "name": "Pink Rug",
+  "size": {
+    "width": 3,
+    "height": 2
+  },
+  "properties": [ ],
+  "property_values": { },
+  "render_priority": 5,
+  "texture": "pink_rug.png"
+}

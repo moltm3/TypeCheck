@@ -1,0 +1,30 @@
+{
+  "name": "Rectangle Painting",
+  "size": {
+    "width": 2,
+    "height": 1
+  },
+  "properties": [
+    "stylable"
+  ],
+  "property_values": {
+    "stylable": {
+      "available": [
+        {
+          "name": "Red",
+          "texture": "red_painting_rc.png"
+        },
+        {
+          "name": "Yellow",
+          "texture": "yellow_painting_rc.png"
+        },
+        {
+          "name": "Blue",
+          "texture": "blue_painting_rc.png"
+        }
+      ]
+    }
+  },
+  "render_priority": 5,
+  "texture": "red_painting_rc.png"
+}

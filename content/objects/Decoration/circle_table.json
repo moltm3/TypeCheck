@@ -1,0 +1,13 @@
+{
+  "name": "Circle Table",
+  "size": {
+    "width": 3,
+    "height": 3
+  },
+  "properties": [
+    "collideable",
+  ],
+  "property_values": { },
+  "render_priority": 5,
+  "texture": "circle_table.png"
+}

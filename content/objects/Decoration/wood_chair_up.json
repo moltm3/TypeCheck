@@ -7,7 +7,14 @@
   "properties": [
     "collideable",
   ],
-  "property_values": {},
+  "property_values": {
+    "collideable": {
+      "xoffset": 0.125,
+      "width": 0.75,
+      "yoffset": 0.875,
+      "height": 1.125,
+    }
+  },
   "texture": "wood_chair_up.png",
   "render_priority": 4,
 }

@@ -1,0 +1,13 @@
+{
+  "name": "White Table",
+  "size": {
+    "width": 1,
+    "height": 2
+  },
+  "properties": [
+    "collideable",
+  ],
+  "property_values": { },
+  "render_priority": 5,
+  "texture": "white_table.png"
+}

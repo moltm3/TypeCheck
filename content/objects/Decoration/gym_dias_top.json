@@ -1,0 +1,11 @@
+{
+  "name": "Gym Dias Top",
+  "size": {
+    "width": 1,
+    "height": 1
+  },
+  "properties": [ ],
+  "property_values": { },
+  "render_priority": 11,
+  "texture": "gym_dias_top.png"
+}

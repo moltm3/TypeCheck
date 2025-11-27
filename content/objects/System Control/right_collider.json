@@ -1,0 +1,20 @@
+{
+  "name": "Right Collider",
+  "size": {
+    "width": 1,
+    "height": 1,
+  },
+  "properties": [
+    "collideable"
+  ],
+  "property_values": {
+    "collideable": {
+      "xoffset": 1,
+      "yoffset": 0,
+      "width": 0,
+      "height": 1,
+    },
+  }
+  "texture": "blank.png",
+  "render_priority": 5,
+}

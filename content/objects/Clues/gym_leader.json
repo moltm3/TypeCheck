@@ -8,7 +8,8 @@
     "interactable",
     "collideable",
     "stylable",
-    "readable"
+    "readable",
+    "completes_level"
   ],
   "property_values": {
     "collideable": {

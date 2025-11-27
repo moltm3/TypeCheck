@@ -1,0 +1,26 @@
+{
+  "name": "Square Painting",
+  "size": {
+    "width": 1,
+    "height": 1
+  },
+  "properties": [
+    "stylable"
+  ],
+  "property_values": {
+    "stylable": {
+      "available": [
+        {
+          "name": "Red",
+          "texture": "red_painting_sq.png"
+        },
+        {
+          "name": "Blue",
+          "texture": "blue_painting_sq.png"
+        }
+      ]
+    }
+  },
+  "render_priority": 5,
+  "texture": "red_painting_sq.png"
+}

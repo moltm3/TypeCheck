@@ -6,35 +6,56 @@ filter: Nearest, Nearest
 repeat: none
 angled_tile
   rotate: false
-  xy: 1488, 0
+  xy: 1584, 16
   size: 16, 16
   orig: 16, 16
   offset: 0, 0
   index: -1
 back_panel2
   rotate: false
-  xy: 1440, 32
+  xy: 1488, 0
   size: 32, 64
   orig: 32, 64
   offset: 0, 0
   index: -1
 back_panel3
   rotate: false
-  xy: 1552, 112
+  xy: 1440, 0
   size: 48, 64
   orig: 48, 64
   offset: 0, 0
   index: -1
 back_panel4
   rotate: false
-  xy: 1584, 176
+  xy: 1232, 0
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 blank
   rotate: false
-  xy: 1760, 224
+  xy: 1696, 144
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+blue_chair
+  rotate: false
+  xy: 1520, 0
+  size: 16, 64
+  orig: 16, 64
+  offset: 0, 0
+  index: -1
+blue_painting_rc
+  rotate: false
+  xy: 1536, 0
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+blue_painting_sq
+  rotate: false
+  xy: 1712, 160
   size: 16, 16
   orig: 16, 16
   offset: 0, 0
@@ -46,44 +67,51 @@ blue_tile_wall
   orig: 384, 128
   offset: 0, 0
   index: -1
+box_lamp
+  rotate: false
+  xy: 1568, 64
+  size: 16, 48
+  orig: 16, 48
+  offset: 0, 0
+  index: -1
 chesto_berry
   rotate: false
-  xy: 1952, 240
+  xy: 1600, 64
   size: 16, 16
   orig: 16, 16
   offset: 0, 0
   index: -1
 chili
   rotate: false
-  xy: 1472, 32
+  xy: 1632, 112
   size: 16, 32
   orig: 16, 32
   offset: 0, 0
   index: -1
 cilan
   rotate: false
-  xy: 1712, 192
+  xy: 1712, 176
   size: 16, 32
   orig: 16, 32
   offset: 0, 0
   index: -1
 circle_table
   rotate: false
-  xy: 1296, 0
+  xy: 1472, 64
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 cress
   rotate: false
-  xy: 1648, 144
+  xy: 1840, 208
   size: 16, 32
   orig: 16, 32
   offset: 0, 0
   index: -1
 curtain_log
   rotate: false
-  xy: 1584, 240
+  xy: 1296, 0
   size: 144, 16
   orig: 144, 16
   offset: 0, 0
@@ -97,121 +125,149 @@ diamond_floor
   index: -1
 field_left
   rotate: false
-  xy: 1152, 96
+  xy: 1152, 64
   size: 160, 160
   orig: 160, 160
   offset: 0, 0
   index: -1
 field_right
   rotate: false
-  xy: 1312, 96
+  xy: 1312, 64
   size: 160, 160
   orig: 160, 160
   offset: 0, 0
   index: -1
 fire_button
   rotate: false
-  xy: 1344, 0
+  xy: 1584, 144
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 fire_curtain_closed
   rotate: false
-  xy: 1152, 48
+  xy: 1472, 208
   size: 144, 48
   orig: 144, 48
   offset: 0, 0
   index: -1
 fire_curtain_open_left
   rotate: false
-  xy: 1600, 128
+  xy: 1536, 16
   size: 16, 48
   orig: 16, 48
   offset: 0, 0
   index: -1
 fire_curtain_open_middle
   rotate: false
-  xy: 1728, 240
+  xy: 1584, 192
   size: 112, 16
   orig: 112, 16
   offset: 0, 0
   index: -1
 fire_curtain_open_right
   rotate: false
-  xy: 1472, 64
+  xy: 1552, 16
   size: 16, 48
   orig: 16, 48
   offset: 0, 0
   index: -1
 fire_stone
   rotate: false
-  xy: 1600, 112
+  xy: 1616, 96
   size: 16, 16
   orig: 16, 16
   offset: 0, 0
   index: -1
 grass_button
   rotate: false
-  xy: 1392, 0
+  xy: 1520, 64
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 grass_curtain_closed
   rotate: false
-  xy: 1152, 0
+  xy: 1296, 16
   size: 144, 48
   orig: 144, 48
   offset: 0, 0
   index: -1
 grass_curtain_open_left
   rotate: false
-  xy: 1488, 64
+  xy: 1680, 144
   size: 16, 48
   orig: 16, 48
   offset: 0, 0
   index: -1
 grass_curtain_open_middle
   rotate: false
-  xy: 1648, 224
+  xy: 1760, 240
   size: 112, 16
   orig: 112, 16
   offset: 0, 0
   index: -1
 grass_curtain_open_right
   rotate: false
-  xy: 1696, 176
+  xy: 1696, 160
   size: 16, 48
   orig: 16, 48
   offset: 0, 0
   index: -1
 great_ball
   rotate: false
-  xy: 1616, 128
+  xy: 1664, 128
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+gym_dias
+  rotate: false
+  xy: 1744, 192
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+gym_dias_top
+  rotate: false
+  xy: 1872, 224
   size: 16, 16
   orig: 16, 16
   offset: 0, 0
   index: -1
 gym_guy
   rotate: false
-  xy: 1504, 32
-  size: 16, 32
-  orig: 16, 32
+  xy: 1904, 240
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+gym_guy_top
+  rotate: false
+  xy: 1712, 144
+  size: 16, 16
+  orig: 16, 16
   offset: 0, 0
   index: -1
 hall_top
   rotate: false
-  xy: 1712, 176
+  xy: 1728, 160
   size: 16, 16
   orig: 16, 16
   offset: 0, 0
   index: -1
 maid
   rotate: false
-  xy: 1504, 0
-  size: 16, 32
-  orig: 16, 32
+  xy: 1600, 48
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+maid_top
+  rotate: false
+  xy: 1616, 80
+  size: 16, 16
+  orig: 16, 16
   offset: 0, 0
   index: -1
 opulent_floor
@@ -223,21 +279,35 @@ opulent_floor
   index: -1
 pansear
   rotate: false
-  xy: 1744, 208
+  xy: 1632, 96
   size: 16, 16
   orig: 16, 16
   offset: 0, 0
   index: -1
+pc
+  rotate: false
+  xy: 1152, 224
+  size: 320, 32
+  orig: 320, 32
+  offset: 0, 0
+  index: -1
+pink_rug
+  rotate: false
+  xy: 1760, 208
+  size: 48, 32
+  orig: 48, 32
+  offset: 0, 0
+  index: -1
 pink_table
   rotate: false
-  xy: 1680, 160
+  xy: 1664, 112
   size: 16, 16
   orig: 16, 16
   offset: 0, 0
   index: -1
 pink_table_sq
   rotate: false
-  xy: 1520, 80
+  xy: 1600, 80
   size: 16, 32
   orig: 16, 32
   offset: 0, 0
@@ -251,14 +321,28 @@ plain_tile_wall
   index: -1
 plank_floor_dark
   rotate: false
-  xy: 1520, 32
+  xy: 1680, 128
   size: 16, 16
   orig: 16, 16
   offset: 0, 0
   index: -1
 plank_floor_light
   rotate: false
-  xy: 1536, 64
+  xy: 1744, 176
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+red_painting_rc
+  rotate: false
+  xy: 1568, 0
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+red_painting_sq
+  rotate: false
+  xy: 1760, 192
   size: 16, 16
   orig: 16, 16
   offset: 0, 0
@@ -272,56 +356,70 @@ red_tile_wall
   index: -1
 simisear
   rotate: false
-  xy: 1616, 144
+  xy: 1808, 208
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
+spotlight
+  rotate: false
+  xy: 1872, 208
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
 stage
   rotate: false
-  xy: 1472, 176
+  xy: 1472, 128
   size: 112, 80
   orig: 112, 80
   offset: 0, 0
   index: -1
 stage_wall
   rotate: false
-  xy: 1552, 96
+  xy: 1888, 224
   size: 16, 16
   orig: 16, 16
   offset: 0, 0
   index: -1
 stairs
   rotate: false
-  xy: 1440, 0
+  xy: 1584, 112
   size: 48, 32
   orig: 48, 32
   offset: 0, 0
   index: -1
 suit_guy
   rotate: false
-  xy: 1728, 192
-  size: 16, 32
-  orig: 16, 32
+  xy: 1920, 240
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+suit_guy_top
+  rotate: false
+  xy: 1728, 144
+  size: 16, 16
+  orig: 16, 16
   offset: 0, 0
   index: -1
 trash
   rotate: false
-  xy: 1776, 224
+  xy: 1600, 32
   size: 16, 16
   orig: 16, 16
   offset: 0, 0
   index: -1
 tree
   rotate: false
-  xy: 1664, 144
+  xy: 1584, 32
   size: 16, 32
   orig: 16, 32
   offset: 0, 0
   index: -1
 void
   rotate: false
-  xy: 1968, 240
+  xy: 1616, 64
   size: 16, 16
   orig: 16, 16
   offset: 0, 0
@@ -335,78 +433,92 @@ void_trim
   index: -1
 walkup
   rotate: false
-  xy: 1472, 112
+  xy: 1152, 0
   size: 80, 64
   orig: 80, 64
   offset: 0, 0
   index: -1
 water_bottle
   rotate: false
-  xy: 1616, 112
+  xy: 1632, 80
   size: 16, 16
   orig: 16, 16
   offset: 0, 0
   index: -1
 water_button
   rotate: false
-  xy: 1648, 176
+  xy: 1632, 144
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 water_curtain_closed
   rotate: false
-  xy: 1296, 48
+  xy: 1616, 208
   size: 144, 48
   orig: 144, 48
   offset: 0, 0
   index: -1
 water_curtain_open_left
   rotate: false
-  xy: 1488, 16
+  xy: 1584, 64
   size: 16, 48
   orig: 16, 48
   offset: 0, 0
   index: -1
 water_curtain_open_middle
   rotate: false
-  xy: 1840, 240
+  xy: 1472, 112
   size: 112, 16
   orig: 112, 16
   offset: 0, 0
   index: -1
 water_curtain_open_right
   rotate: false
-  xy: 1504, 64
+  xy: 1568, 16
   size: 16, 48
   orig: 16, 48
   offset: 0, 0
   index: -1
+white_table
+  rotate: false
+  xy: 1648, 112
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
 wood_chair_down
   rotate: false
-  xy: 1520, 48
+  xy: 1728, 176
   size: 16, 32
   orig: 16, 32
   offset: 0, 0
   index: -1
 wood_chair_up
   rotate: false
-  xy: 1536, 80
+  xy: 1856, 208
   size: 16, 32
   orig: 16, 32
   offset: 0, 0
   index: -1
 wood_floor_z
   rotate: false
-  xy: 1632, 128
+  xy: 1648, 96
   size: 16, 16
   orig: 16, 16
   offset: 0, 0
   index: -1
 wood_floor_z_cap
   rotate: false
-  xy: 1728, 176
+  xy: 1680, 112
   size: 16, 16
   orig: 16, 16
+  offset: 0, 0
+  index: -1
+yellow_painting_rc
+  rotate: false
+  xy: 1872, 240
+  size: 32, 16
+  orig: 32, 16
   offset: 0, 0
   index: -1

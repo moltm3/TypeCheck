@@ -1,0 +1,20 @@
+{
+  "name": "Gym Dias Bottom",
+  "size": {
+    "width": 1,
+    "height": 1
+  },
+  "properties": [
+    "collideable",
+  ],
+  "property_values": {
+    "collideable": {
+      "xoffset": 0.125,
+      "width": 0.75,
+      "yoffset": 0.125,
+      "height": 0.875,
+    }
+  },
+  "render_priority": 5,
+  "texture": "gym_dias.png"
+}

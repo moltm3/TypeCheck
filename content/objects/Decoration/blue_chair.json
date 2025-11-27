@@ -1,0 +1,25 @@
+{
+  "name": "Blue Chair",
+  "size": {
+    "width": 1,
+    "height": 1,
+  },
+  "properties": [
+    "collideable",
+    "spinable",
+  ],
+  "property_values": {
+    "spinable": {
+      "pixel_width": 16,
+      "pixel_height": 16,
+    },
+    "collideable": {
+      "xoffset": 0.25,
+      "yoffset": 0,
+      "width": 0.5,
+      "height": 1,
+    }
+  },
+  "texture": "blue_chair.png",
+  "render_priority": 3,
+}

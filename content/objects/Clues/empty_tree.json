@@ -9,7 +9,14 @@
     "collideable",
     "readable"
   ],
-  "property_values": {},
+  "property_values": {
+    "collideable": {
+      "xoffset": 0.125,
+      "width": 0.75,
+      "yoffset": 0.125,
+      "height": 0.75,
+    }
+  },
   "texture": "tree.png",
   "render_priority": 6,
 }
