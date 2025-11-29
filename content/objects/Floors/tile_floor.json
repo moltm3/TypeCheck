@@ -1,18 +1,19 @@
 {
-  "name": "Tiled Floor",
+  "name": "Tile Floor",
   "size": {
     "width": 1,
     "height": 1,
   },
   "properties": [
-    "tiled_brushable"
+    "tiled_brushable",
+    "stylable"
   ],
   "property_values": {
     "stylable": {
       "available": [
         {
-          "name": "Diamond"
-          "texture": "diamond_floor.png"
+          "name": "Opulent"
+          "texture": "opulent_floor.png"
         }
       ],
     }

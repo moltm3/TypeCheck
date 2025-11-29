@@ -1,0 +1,11 @@
+{
+  "name": "Gym Stairs",
+  "size": {
+    "width": 3,
+    "height": 3
+  },
+  "properties": [ ],
+  "property_values": { },
+  "render_priority": 5,
+  "texture": "gym_stairs.png"
+}

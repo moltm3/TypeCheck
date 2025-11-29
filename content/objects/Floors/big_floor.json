@@ -1,0 +1,29 @@
+{
+  "name": "Big Floor",
+  "size": {
+    "width": 2,
+    "height": 2
+  },
+  "properties": [
+    "stylable",
+    "brush"
+  ],
+  "property_values": {
+    "stylable": {
+      "available": [
+        {
+          "name": "Striaton"
+          "texture": "striaton_gray_tile.png"
+        }, {
+          "name": "Striaton Diagonal"
+          "texture": "striaton_diag_tile.png"
+        }, {
+          "name": "Grass"
+          "texture": "grass.png"
+        }
+      ]
+    }
+  },
+  "texture": "striaton_gray_tile.png",
+  "render_priority": 0,
+}

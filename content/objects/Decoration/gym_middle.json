@@ -1,0 +1,20 @@
+{
+  "name": "Gym Middle",
+  "size": {
+    "width": 1,
+    "height": 8
+  },
+  "properties": [
+    "collideable"
+  ],
+  "property_values": {
+    "collideable": {
+      "xoffset": 0,
+      "yoffset": 1.5,
+      "width": 1,
+      "height": 6.5,
+    }
+},
+  "render_priority": 5,
+  "texture": "striaton_gym_middle.png"
+}

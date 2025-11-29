@@ -1,0 +1,25 @@
+{
+  "name": "Atm Person Top",
+  "size": {
+    "width": 1,
+    "height": 1,
+  },
+  "properties": [
+    "stylable"
+  ],
+  "property_values": {
+    "stylable": {
+      "available": [
+        {
+          "name": "BBall",
+          "texture": "bball_guy_top.png"
+        },{
+          "name": "Tennis",
+          "texture": "tennis_player_top.png"
+        }
+      ]
+    }
+  },
+  "texture": "maid_top.png",
+  "render_priority": 11
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Pokecenter",
+  "size": {
+    "width": 7,
+    "height": 8
+  },
+  "properties": [
+    "collideable",
+  ],
+  "property_values": { },
+  "render_priority": 5,
+  "texture": "pokecenter.png"
+}

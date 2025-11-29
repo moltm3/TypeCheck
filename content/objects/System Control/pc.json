@@ -5,7 +5,8 @@
     "height": 2,
   },
   "properties": [
-    "player"
+    "player",
+    "conditionally_visible"
   ],
   "property_values": {
     "player": {

@@ -1,0 +1,28 @@
+{
+  "name": "Trainer",
+  "size": {
+    "width": 1,
+    "height": 1,
+  },
+  "properties": [
+    "interactable",
+    "collideable",
+    "stylable",
+    "readable"
+  ],
+  "property_values": {
+    "stylable": {
+      "available": [
+        {
+          "name": "Ballin'",
+          "texture": "bball_guy.png"
+        },{
+          "name": "Tennis",
+          "texture": "tennis_player.png"
+        }
+      ]
+    }
+  },
+  "texture": "bball_guy.png",
+  "render_priority": 5
+}

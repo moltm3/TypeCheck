@@ -1,0 +1,33 @@
+{
+  "name": "Gym Side",
+  "size": {
+    "width": 3,
+    "height": 8
+  },
+  "properties": [
+    "collideable",
+    "stylable"
+  ],
+  "property_values": {
+    "stylable": {
+      "available": [
+        {
+          "name": "Left",
+          "texture": "striaton_gym_sides1.png"
+        },
+        {
+          "name": "Right",
+          "texture": "striaton_gym_sides2.png"
+        }
+      ]
+    },
+    "collideable": {
+      "xoffset": 0.75,
+      "yoffset": 0.5,
+      "width": 1.5,
+      "height": 7.5,
+    }
+  },
+  "render_priority": 5,
+  "texture": "striaton_gym_sides1.png"
+}
