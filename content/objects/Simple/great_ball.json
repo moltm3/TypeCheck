@@ -1,0 +1,16 @@
+{
+  "name": "Great Ball",
+  "size": {
+    "width": 1,
+    "height": 1,
+  },
+  "properties": [
+    "containable",
+    "interactable",
+    "obtainable",
+    "conditionally_visible"
+  ],
+  "property_values": { },
+  "texture": "great_ball.png",
+  "render_priority": 7,
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Trigger",
+  "size": {
+    "width": 1,
+    "height": 1,
+  },
+  "properties": [
+    "conditionally_active"
+  ],
+  "property_values": { },
+  "texture": "placeholder.png",
+  "render_priority": -1,
+}
